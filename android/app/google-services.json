@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1010734004389",
+    "firebase_url": "https://tenantapp-3dae9.firebaseio.com",
+    "project_id": "tenantapp-3dae9",
+    "storage_bucket": "tenantapp-3dae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010734004389:android:78beb4ff2de242e50d354c",
+        "android_client_info": {
+          "package_name": "com.urbanos.tenant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010734004389-7pd2nmoqqgk18beucdhdp1bqlocobi0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urbanos.tenant",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1010734004389-7uj73hd4uqmpm55bc04sjianmgv7om8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDybJ0chV8AJmrhkaisVpnRH-QWkKuAZEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010734004389-7uj73hd4uqmpm55bc04sjianmgv7om8k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010734004389-3rdldfl5v40f6d9viuh0e9pk70bk6qod.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.urbanos.tenanturbanos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

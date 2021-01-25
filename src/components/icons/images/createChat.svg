@@ -1,0 +1,29 @@
+<svg width="24" height="24" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0)">
+    <path d="M29.1395 18.2604C28.7051 18.2604 28.3532 18.6124 28.3532 19.0467V26.0285C28.3516 27.3305 27.2966 28.3858 25.9943 28.3874H3.9315C2.62919 28.3858 1.57413 27.3305 1.5726 26.0285V5.53831C1.57413 4.236 2.62919 3.18095 3.9315 3.17941H10.913C11.3473 3.17941 11.6993 2.82742 11.6993 2.39311C11.6993 1.9588 11.3473 1.60681 10.913 1.60681H3.9315C1.76119 1.60927 0.00245719 3.368 0 5.53831V26.0285C0.00245719 28.1988 1.76119 29.9575 3.9315 29.96H25.9943C28.1646 29.9575 29.9233 28.1988 29.9258 26.0285V19.047C29.9258 18.6127 29.5738 18.2604 29.1395 18.2604Z" fill="url(#paint0_radial)" />
+    <path d="M12.2952 14.1228L23.7761 2.6416L27.4787 6.34427L15.9978 17.8254L12.2952 14.1228Z" fill="url(#paint1_radial)" />
+    <path d="M10.4218 19.6987L14.5136 18.5653L11.5552 15.6069L10.4218 19.6987Z" fill="url(#paint2_radial)" />
+    <path d="M28.5024 0.695478C27.7342 -0.0708561 26.4906 -0.0708561 25.7224 0.695478L24.8885 1.52939L28.5912 5.23206L29.4251 4.39815C30.1917 3.62997 30.1917 2.38633 29.4251 1.61815L28.5024 0.695478Z" fill="url(#paint3_radial)" />
+  </g>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-18.7971 -52.2642) scale(115.791 109.706)">
+      <stop stop-color="#FB72AD" />
+      <stop offset="1" stop-color="#B643D5" />
+    </radialGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(2.758 -26.2077) scale(58.7495 58.7506)">
+      <stop stop-color="#FB72AD" />
+      <stop offset="1" stop-color="#B643D5" />
+    </radialGradient>
+    <radialGradient id="paint2_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(7.85163 7.8324) scale(15.8325)">
+      <stop stop-color="#FB72AD" />
+      <stop offset="1" stop-color="#B643D5" />
+    </radialGradient>
+    <radialGradient id="paint3_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(21.6778 -9.59079) scale(19.778 19.7772)">
+      <stop stop-color="#FB72AD" />
+      <stop offset="1" stop-color="#B643D5" />
+    </radialGradient>
+    <clipPath id="clip0">
+      <path d="M0 0H30V30H0V0Z" fill="white" />
+    </clipPath>
+  </defs>
+</svg>

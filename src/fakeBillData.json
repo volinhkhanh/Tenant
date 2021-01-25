@@ -1,0 +1,769 @@
+[
+  {
+    "id": 10,
+    "unit_id": 10,
+    "unit_uuid": "f2749f74-f245-11ea-80c8-06c68d205416",
+    "house_number": "A1.06-09",
+    "bill_code": "U10T072020",
+    "subtotal": 756400,
+    "total": 832040,
+    "start_date": "2020-07-01T00:00:00+07:00",
+    "end_date": "2020-07-30T00:00:00+07:00",
+    "due_date": "2020-08-20T00:00:00+07:00",
+    "status": "Unpaid",
+    "paid_date": null,
+    "vat_percent": 10,
+    "vat": 75640,
+    "bill_categories": [
+      {
+        "fee_category": "Management",
+        "subtotal_price": 536400,
+        "total_price": 590040,
+        "details": [
+          {
+            "id": 10,
+            "fee_name": "Management fee",
+            "unit_price": 12000,
+            "quantity": 44.7,
+            "subtotal_price": 536400
+          }
+        ]
+      },
+      {
+        "fee_category": "Water",
+        "subtotal_price": 120000,
+        "total_price": 132000,
+        "details": [
+          {
+            "id": 10,
+            "fee_name": "Water fee",
+            "unit_price": 10000,
+            "quantity": 12,
+            "subtotal_price": 120000,
+            "start_water_meter": 1345,
+            "end_water_meter": 1357
+          }
+        ]
+      },
+      {
+        "fee_category": "Parking",
+        "subtotal_price": 100000,
+        "total_price": 110000,
+        "details": [
+          {
+            "id": 10,
+            "fee_name": "[Motorcycle] - 59-T1 12345",
+            "unit_price": 100000,
+            "quantity": 1,
+            "subtotal_price": 100000
+          }
+        ]
+      },
+      {
+        "fee_category": "Home services",
+        "subtotal_price": 0,
+        "total_price": 0,
+        "details": [
+          {
+            "id": 10,
+            "fee_name": "Ticket fee",
+            "unit_price": 0,
+            "quantity": 1,
+            "subtotal_price": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "unit_id": 11,
+    "unit_uuid": "f27ae444-f245-11ea-80c8-06c68d205416",
+    "house_number": "A1.07-10",
+    "bill_code": "U11T072020",
+    "subtotal": 2554400,
+    "total": 2809840,
+    "start_date": "2020-07-01T00:00:00+07:00",
+    "end_date": "2020-07-30T00:00:00+07:00",
+    "due_date": "2020-08-20T00:00:00+07:00",
+    "status": "Paid",
+    "paid_date": "2020-08-15T00:00:00+07:00",
+    "vat_percent": 10,
+    "vat": 255440,
+    "bill_categories": [
+      {
+        "fee_category": "Management",
+        "subtotal_price": 914400,
+        "total_price": 1005840,
+        "details": [
+          {
+            "id": 11,
+            "fee_name": "Management fee",
+            "unit_price": 12000,
+            "quantity": 76.2,
+            "subtotal_price": 914400
+          }
+        ]
+      },
+      {
+        "fee_category": "Water",
+        "subtotal_price": 240000,
+        "total_price": 264000,
+        "details": [
+          {
+            "id": 11,
+            "fee_name": "Water fee",
+            "unit_price": 10000,
+            "quantity": 24,
+            "subtotal_price": 240000,
+            "start_water_meter": 1546,
+            "end_water_meter": 1570
+          }
+        ]
+      },
+      {
+        "fee_category": "Parking",
+        "subtotal_price": 1200000,
+        "total_price": 1320000,
+        "details": [
+          {
+            "id": 11,
+            "fee_name": "[4-seat car] - 59F 55555",
+            "unit_price": 1200000,
+            "quantity": 1,
+            "subtotal_price": 1200000
+          }
+        ]
+      },
+      {
+        "fee_category": "Home services",
+        "subtotal_price": 200000,
+        "total_price": 220000,
+        "details": [
+          {
+            "id": 11,
+            "fee_name": "Ticket fee",
+            "unit_price": 200000,
+            "quantity": 1,
+            "subtotal_price": 200000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "unit_id": 12,
+    "unit_uuid": "f28149be-f245-11ea-80c8-06c68d205416",
+    "house_number": "A1.08-11",
+    "bill_code": "U12T072020",
+    "subtotal": 1120600,
+    "total": 1232660,
+    "start_date": "2020-07-01T00:00:00+07:00",
+    "end_date": "2020-07-30T00:00:00+07:00",
+    "due_date": "2020-08-20T00:00:00+07:00",
+    "status": "Paid",
+    "paid_date": "2020-08-15T00:00:00+07:00",
+    "vat_percent": 10,
+    "vat": 112060,
+    "bill_categories": [
+      {
+        "fee_category": "Management",
+        "subtotal_price": 782400,
+        "total_price": 860640,
+        "details": [
+          {
+            "id": 12,
+            "fee_name": "Management fee",
+            "unit_price": 12000,
+            "quantity": 65.2,
+            "subtotal_price": 782400
+          }
+        ]
+      },
+      {
+        "fee_category": "Water",
+        "subtotal_price": 50000,
+        "total_price": 55000,
+        "details": [
+          {
+            "id": 12,
+            "fee_name": "Water fee",
+            "unit_price": 10000,
+            "quantity": 5,
+            "subtotal_price": 50000,
+            "start_water_meter": 1345,
+            "end_water_meter": 1350
+          }
+        ]
+      },
+      {
+        "fee_category": "Parking",
+        "subtotal_price": 30000,
+        "total_price": 33000,
+        "details": [
+          {
+            "id": 12,
+            "fee_name": "[Bicycle]",
+            "unit_price": 30000,
+            "quantity": 1,
+            "subtotal_price": 30000
+          }
+        ]
+      },
+      {
+        "fee_category": "Home services",
+        "subtotal_price": 258200,
+        "total_price": 284020,
+        "details": [
+          {
+            "id": 12,
+            "fee_name": "Ticket fee",
+            "unit_price": 258200,
+            "quantity": 1,
+            "subtotal_price": 258200
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "unit_id": 13,
+    "unit_uuid": "f2876af1-f245-11ea-80c8-06c68d205416",
+    "house_number": "A1.09-12",
+    "bill_code": "U13T072020",
+    "subtotal": 1999200,
+    "total": 2199120,
+    "start_date": "2020-07-01T00:00:00+07:00",
+    "end_date": "2020-07-30T00:00:00+07:00",
+    "due_date": "2020-08-20T00:00:00+07:00",
+    "status": "Paid",
+    "paid_date": "2020-08-15T00:00:00+07:00",
+    "vat_percent": 10,
+    "vat": 199920,
+    "bill_categories": [
+      {
+        "fee_category": "Management",
+        "subtotal_price": 1159200,
+        "total_price": 1275120,
+        "details": [
+          {
+            "id": 13,
+            "fee_name": "Management fee",
+            "unit_price": 12000,
+            "quantity": 96.6,
+            "subtotal_price": 1159200
+          }
+        ]
+      },
+      {
+        "fee_category": "Water",
+        "subtotal_price": 70000,
+        "total_price": 77000,
+        "details": [
+          {
+            "id": 13,
+            "fee_name": "Water fee",
+            "unit_price": 10000,
+            "quantity": 7,
+            "subtotal_price": 70000,
+            "start_water_meter": 980,
+            "end_water_meter": 987
+          }
+        ]
+      },
+      {
+        "fee_category": "Parking",
+        "subtotal_price": 100000,
+        "total_price": 110000,
+        "details": [
+          {
+            "id": 13,
+            "fee_name": "[Motorcycle] - 59-T1 43123",
+            "unit_price": 100000,
+            "quantity": 1,
+            "subtotal_price": 100000
+          }
+        ]
+      },
+      {
+        "fee_category": "Home services",
+        "subtotal_price": 670000,
+        "total_price": 737000,
+        "details": [
+          {
+            "id": 13,
+            "fee_name": "Ticket fee",
+            "unit_price": 670000,
+            "quantity": 1,
+            "subtotal_price": 670000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "unit_id": 14,
+    "unit_uuid": "f28da73e-f245-11ea-80c8-06c68d205416",
+    "house_number": "A1.10-12A",
+    "bill_code": "U14T072020",
+    "subtotal": 1304400,
+    "total": 1434840,
+    "start_date": "2020-07-01T00:00:00+07:00",
+    "end_date": "2020-07-30T00:00:00+07:00",
+    "due_date": "2020-08-20T00:00:00+07:00",
+    "status": "Unpaid",
+    "paid_date": null,
+    "vat_percent": 10,
+    "vat": 130440,
+    "bill_categories": [
+      {
+        "fee_category": "Management",
+        "subtotal_price": 1214400,
+        "total_price": 1335840,
+        "details": [
+          {
+            "id": 14,
+            "fee_name": "Management fee",
+            "unit_price": 12000,
+            "quantity": 101.2,
+            "subtotal_price": 1214400
+          }
+        ]
+      },
+      {
+        "fee_category": "Water",
+        "subtotal_price": 60000,
+        "total_price": 66000,
+        "details": [
+          {
+            "id": 14,
+            "fee_name": "Water fee",
+            "unit_price": 10000,
+            "quantity": 6,
+            "subtotal_price": 60000,
+            "start_water_meter": 1023,
+            "end_water_meter": 1029
+          }
+        ]
+      },
+      {
+        "fee_category": "Parking",
+        "subtotal_price": 30000,
+        "total_price": 33000,
+        "details": [
+          {
+            "id": 14,
+            "fee_name": "[Bicycle]",
+            "unit_price": 30000,
+            "quantity": 1,
+            "subtotal_price": 30000
+          }
+        ]
+      },
+      {
+        "fee_category": "Home services",
+        "subtotal_price": 0,
+        "total_price": 0,
+        "details": [
+          {
+            "id": 14,
+            "fee_name": "Ticket fee",
+            "unit_price": 0,
+            "quantity": 1,
+            "subtotal_price": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "unit_id": 21,
+    "unit_uuid": "f2b9be06-f245-11ea-80c8-06c68d205416",
+    "house_number": "A1.04-15",
+    "bill_code": "U21T072020",
+    "subtotal": 2906800,
+    "total": 3197480,
+    "start_date": "2020-07-01T00:00:00+07:00",
+    "end_date": "2020-07-30T00:00:00+07:00",
+    "due_date": "2020-08-20T00:00:00+07:00",
+    "status": "Unpaid",
+    "paid_date": null,
+    "vat_percent": 10,
+    "vat": 290680,
+    "bill_categories": [
+      {
+        "fee_category": "Management",
+        "subtotal_price": 916800.0000000001,
+        "total_price": 1008480.0000000001,
+        "details": [
+          {
+            "id": 21,
+            "fee_name": "Management fee",
+            "unit_price": 12000,
+            "quantity": 76.4,
+            "subtotal_price": 916800.0000000001
+          }
+        ]
+      },
+      {
+        "fee_category": "Water",
+        "subtotal_price": 290000,
+        "total_price": 319000,
+        "details": [
+          {
+            "id": 21,
+            "fee_name": "Water fee",
+            "unit_price": 10000,
+            "quantity": 29,
+            "subtotal_price": 290000,
+            "start_water_meter": 1200,
+            "end_water_meter": 1229
+          }
+        ]
+      },
+      {
+        "fee_category": "Parking",
+        "subtotal_price": 1200000,
+        "total_price": 1320000,
+        "details": [
+          {
+            "id": 21,
+            "fee_name": "[4-seat car] - 59F 44455",
+            "unit_price": 1200000,
+            "quantity": 1,
+            "subtotal_price": 1200000
+          }
+        ]
+      },
+      {
+        "fee_category": "Home services",
+        "subtotal_price": 500000,
+        "total_price": 550000,
+        "details": [
+          {
+            "id": 21,
+            "fee_name": "Ticket fee",
+            "unit_price": 500000,
+            "quantity": 1,
+            "subtotal_price": 500000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "unit_id": 22,
+    "unit_uuid": "f2c003dd-f245-11ea-80c8-06c68d205416",
+    "house_number": "A1.05-02",
+    "bill_code": "U22T072020",
+    "subtotal": 2466000,
+    "total": 2712600,
+    "start_date": "2020-07-01T00:00:00+07:00",
+    "end_date": "2020-07-30T00:00:00+07:00",
+    "due_date": "2020-08-20T00:00:00+07:00",
+    "status": "Paid",
+    "paid_date": "2020-08-15T00:00:00+07:00",
+    "vat_percent": 10,
+    "vat": 246600,
+    "bill_categories": [
+      {
+        "fee_category": "Management",
+        "subtotal_price": 546000,
+        "total_price": 600600,
+        "details": [
+          {
+            "id": 22,
+            "fee_name": "Management fee",
+            "unit_price": 12000,
+            "quantity": 45.5,
+            "subtotal_price": 546000
+          }
+        ]
+      },
+      {
+        "fee_category": "Water",
+        "subtotal_price": 190000,
+        "total_price": 209000,
+        "details": [
+          {
+            "id": 22,
+            "fee_name": "Water fee",
+            "unit_price": 10000,
+            "quantity": 19,
+            "subtotal_price": 190000,
+            "start_water_meter": 1030,
+            "end_water_meter": 1049
+          }
+        ]
+      },
+      {
+        "fee_category": "Parking",
+        "subtotal_price": 1200000,
+        "total_price": 1320000,
+        "details": [
+          {
+            "id": 22,
+            "fee_name": "[4-seat car] - 59F 12455",
+            "unit_price": 1200000,
+            "quantity": 1,
+            "subtotal_price": 1200000
+          }
+        ]
+      },
+      {
+        "fee_category": "Home services",
+        "subtotal_price": 530000,
+        "total_price": 583000,
+        "details": [
+          {
+            "id": 22,
+            "fee_name": "Ticket fee",
+            "unit_price": 530000,
+            "quantity": 1,
+            "subtotal_price": 530000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "unit_id": 4,
+    "unit_uuid": "f24f1ffd-f245-11ea-80c8-06c68d205416",
+    "house_number": "A1.02-12B",
+    "bill_code": "U4T072020",
+    "subtotal": 2336400,
+    "total": 2570040,
+    "start_date": "2020-07-01T00:00:00+07:00",
+    "end_date": "2020-07-30T00:00:00+07:00",
+    "due_date": "2020-08-20T00:00:00+07:00",
+    "status": "Unpaid",
+    "paid_date": null,
+    "vat_percent": 10,
+    "vat": 233640,
+    "bill_categories": [
+      {
+        "fee_category": "Management",
+        "subtotal_price": 746400,
+        "total_price": 821040,
+        "details": [
+          {
+            "id": 4,
+            "fee_name": "Management fee",
+            "unit_price": 12000,
+            "quantity": 62.2,
+            "subtotal_price": 746400
+          }
+        ]
+      },
+      {
+        "fee_category": "Water",
+        "subtotal_price": 290000,
+        "total_price": 319000,
+        "details": [
+          {
+            "id": 4,
+            "fee_name": "Water fee",
+            "unit_price": 10000,
+            "quantity": 29,
+            "subtotal_price": 290000,
+            "start_water_meter": 1831,
+            "end_water_meter": 1860
+          }
+        ]
+      },
+      {
+        "fee_category": "Parking",
+        "subtotal_price": 1300000,
+        "total_price": 1430000,
+        "details": [
+          {
+            "id": 4,
+            "fee_name": "[Motorcycle] - 59-T1 78945",
+            "unit_price": 100000,
+            "quantity": 1,
+            "subtotal_price": 100000
+          },
+          {
+            "id": 4,
+            "fee_name": "[4-seat car] - 59F 83275",
+            "unit_price": 1200000,
+            "quantity": 1,
+            "subtotal_price": 1200000
+          }
+        ]
+      },
+      {
+        "fee_category": "Home services",
+        "subtotal_price": 0,
+        "total_price": 0,
+        "details": [
+          {
+            "id": 4,
+            "fee_name": "Ticket fee",
+            "unit_price": 0,
+            "quantity": 1,
+            "subtotal_price": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "unit_id": 2,
+    "unit_uuid": "f242996e-f245-11ea-80c8-06c68d205416",
+    "house_number": "A1.01-01",
+    "bill_code": "U2T072020",
+    "subtotal": 1740000,
+    "total": 1914000,
+    "start_date": "2020-07-01T00:00:00+07:00",
+    "end_date": "2020-07-30T00:00:00+07:00",
+    "due_date": "2020-08-20T00:00:00+07:00",
+    "status": "Paid",
+    "paid_date": "2020-08-15T00:00:00+07:00",
+    "vat_percent": 10,
+    "vat": 174000,
+    "bill_categories": [
+      {
+        "fee_category": "Management",
+        "subtotal_price": 540000,
+        "total_price": 594000,
+        "details": [
+          {
+            "id": 2,
+            "fee_name": "Management fee",
+            "unit_price": 12000,
+            "quantity": 45,
+            "subtotal_price": 540000
+          }
+        ]
+      },
+      {
+        "fee_category": "Water",
+        "subtotal_price": 100000,
+        "total_price": 110000,
+        "details": [
+          {
+            "id": 2,
+            "fee_name": "Water fee",
+            "unit_price": 10000,
+            "quantity": 10,
+            "subtotal_price": 100000,
+            "start_water_meter": 1240,
+            "end_water_meter": 1250
+          }
+        ]
+      },
+      {
+        "fee_category": "Parking",
+        "subtotal_price": 100000,
+        "total_price": 110000,
+        "details": [
+          {
+            "id": 2,
+            "fee_name": "[Motorcycle] - 59-T1 19245",
+            "unit_price": 100000,
+            "quantity": 1,
+            "subtotal_price": 100000
+          }
+        ]
+      },
+      {
+        "fee_category": "Home services",
+        "subtotal_price": 1000000,
+        "total_price": 1100000,
+        "details": [
+          {
+            "id": 2,
+            "fee_name": "Ticket fee",
+            "unit_price": 1000000,
+            "quantity": 1,
+            "subtotal_price": 1000000
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "unit_id": 8,
+    "unit_uuid": "f26821de-f245-11ea-80c8-06c68d205416",
+    "house_number": "A1.03-16",
+    "bill_code": "U8T072020",
+    "subtotal": 1890000,
+    "total": 2079000,
+    "start_date": "2020-07-01T00:00:00+07:00",
+    "end_date": "2020-07-30T00:00:00+07:00",
+    "due_date": "2020-08-20T00:00:00+07:00",
+    "status": "Paid",
+    "paid_date": "2020-08-15T00:00:00+07:00",
+    "vat_percent": 10,
+    "vat": 189000,
+    "bill_categories": [
+      {
+        "fee_category": "Management",
+        "subtotal_price": 540000,
+        "total_price": 594000,
+        "details": [
+          {
+            "id": 8,
+            "fee_name": "Management fee",
+            "unit_price": 12000,
+            "quantity": 45,
+            "subtotal_price": 540000
+          }
+        ]
+      },
+      {
+        "fee_category": "Water",
+        "subtotal_price": 150000,
+        "total_price": 165000,
+        "details": [
+          {
+            "id": 8,
+            "fee_name": "Water fee",
+            "unit_price": 10000,
+            "quantity": 15,
+            "subtotal_price": 150000,
+            "start_water_meter": 801,
+            "end_water_meter": 816
+          }
+        ]
+      },
+      {
+        "fee_category": "Parking",
+        "subtotal_price": 1200000,
+        "total_price": 1320000,
+        "details": [
+          {
+            "id": 8,
+            "fee_name": "[4-seat car] - 59F 31279",
+            "unit_price": 1200000,
+            "quantity": 1,
+            "subtotal_price": 1200000
+          }
+        ]
+      },
+      {
+        "fee_category": "Home services",
+        "subtotal_price": 0,
+        "total_price": 0,
+        "details": [
+          {
+            "id": 8,
+            "fee_name": "Ticket fee",
+            "unit_price": 0,
+            "quantity": 1,
+            "subtotal_price": 0
+          }
+        ]
+      }
+    ]
+  }
+]

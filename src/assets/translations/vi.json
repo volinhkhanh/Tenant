@@ -1,0 +1,449 @@
+{
+  "hello": "Xin chào",
+  "Good morning": "Chào buổi sáng",
+  "Currency": "VND",
+
+  "ToUrbanOS": "đến UrbanOS",
+  "Slogan": "Hãy để chúng tôi giúp cuộc sống của bạn tốt hơn ngay tại nhà",
+  "Instruction": "Bắt đầu",
+
+  "getStarted": "Bắt đầu",
+  "slide1Title": "Quản lý hóa đơn",
+  "slide1Description": "Theo dõi hóa đơn và chi tiêu hàng tháng",
+  "slide2Title": "Sử dụng tiện ích",
+  "slide2Description": "Đặt lịch trực tuyến để sử dụng các tiện ích của tòa nhà",
+  "slide3Title": "Báo cáo thiệt hại",
+  "slide3Description": "Báo cáo thiệt hại trong tích tắc",
+
+  "Welcome": "Chào mừng",
+  "PleaseSignInToContinue": "Đăng nhập để tiếp tục",
+  "Password": "Mật khẩu",
+  "ForgotIdOrPassword": "Quên ID hoặc Mật khẩu?",
+  "Login": "Đăng nhập",
+  "Terms&Conditions": "Điều khoản và Điều kiện",
+  "OnlineRegistration": "Đăng ký trực tuyến",
+  "Terms&ConditionsContent": "THÔNG BÁO QUAN TRỌNG CỦA URBANOS\nVui lòng đọc kỹ các điều khoản & điều kiện bên dưới và thông báo về quyền riêng tư của trang web một cách cẩn thận (gọi chung là Điều khoản & Điều kiện) trước khi sử dụng trang web này và / hoặc ứng dụng này (sau đây gọi là Trang web của Trang).\n\nTrang web này thuộc sở hữu của UrbanOS Co., Ltd (đô thị đô thị trực tuyến). Khi sử dụng trang web này, bạn đồng ý bị ràng buộc bởi các Điều khoản & Điều kiện này. Nếu bạn không đồng ý với bất kỳ phần nào trong các Điều khoản & Điều kiện này, vui lòng không truy cập Trang web này. UrbanOS có quyền sửa đổi các Điều khoản & Điều kiện này bất cứ lúc nào mà không cần cung cấp bất kỳ thông báo nào hoặc có được sự đồng ý của bạn trước.\n\nSỬ DỤNG THÔNG TIN VÀ VẬT LIỆU Thông tin và tài liệu trong các trang này - và các điều khoản, điều kiện và mô tả xuất hiện - là tài sản của UrbanOS và có thể thay đổi theo thời gian. Không phải tất cả các sản phẩm và dịch vụ có sẵn trong tất cả các khu vực địa lý. Việc bạn đủ điều kiện nhận các sản phẩm và dịch vụ cụ thể phải tuân theo quyết định và chấp nhận cuối cùng của UrbanOS.",
+  "Close": "Đóng",
+
+  "FindIdOrPassword": "Tìm ID hoặc Mật khẩu",
+  "PleaseSelectTheSectionToFind": "Chọn mục để tìm kiếm",
+  "ApartmentName": "Tên căn hộ",
+  "FullName": "Họ tên",
+  "PhoneNumber": "Số điện thoại",
+  "GetOTP": "Nhận OTP",
+  "AllFieldsAreRequired": "Vui lòng điền đầy đủ thông tin",
+  "AllFieldsAsteriskAreRequired": "Vui lòng điền đầy đủ thông tin cho các trường có dấu *",
+  "CanNotGenerateOTP": "Không thể tạo mã OTP",
+
+  "Profile": "Hồ sơ",
+  "Point": "Điểm",
+  "ContactSupportTeam": "Liên hệ nhóm hỗ trợ",
+  "Bills": "Hóa đơn",
+  "Facility": "Tiện ích",
+  "Ticket": "Sửa chữa",
+  "PhoneBook": "Danh bạ",
+  "HomeServices": "Dịch vụ",
+  "Delivery": "giao hàng",
+  "Moving": "chuyển hàng",
+  "Cleaning": "lau dọn",
+  "Laundry": "giặt ủi",
+  "AskMeAnything": "khác",
+  "Election": "Bầu cử",
+  "Visitor": "Khách",
+  "Event": "Sự kiện",
+  "AddToList": "Thêm vào danh sách",
+  "CreateMovingList": "Tạo chuyển đồ",
+  "Chair": "ghế",
+  "Table": "bàn",
+  "MovingCreateConfirm": "Một yêu cầu ủy quyền sẽ được gửi tới chủ nhà",
+
+  "ReportAnyPropertyDamageOrIssue": "Báo cáo hư hại",
+  "History": "Lịch sử",
+  "CreateTicket": "Tạo yêu cầu",
+  "TicketDetail": "Chi tiết yêu cầu",
+  "Submitting": "Đang gửi",
+  "Submitted": "Đã gửi",
+  "Processing": "Đang tiến hành",
+  "Canceled": "Đã hủy",
+  "Completed": "Hoàn thành",
+  "Type": "Loại",
+  "Quantity": "Số lượng",
+  "Name": "Tên",
+  "Unit": "Căn hộ",
+  "Edit": "Sửa",
+  "Delete": "Xóa",
+  "Confirm": "Xác nhận",
+  "EditTicket": "Sửa sửa chữa",
+  "Title": "Tiêu đề",
+  "Description": "Mô tả",
+  "ChoosePhotos": "Chọn hình ảnh",
+  "SomethingUrgent": "Vấn đề khẩn cấp?",
+  "CallUs": " Gọi chúng tôi",
+  "WhyDoYouWantToCancelThisTicket": "Lý do hủy yêu cầu",
+  "DoYouWantToCallTicketSupport": "Bạn có muốn gọi hỗ trợ sửa chữa?",
+  "GoBack": "Quay lại",
+  "Call": "Gọi",
+  "ImagePicker": {
+    "title": "Vui lòng chọn hình ảnh",
+    "cancelButtonTitle": "Huỷ",
+    "takePhotoButtonTitle": "Chụp ảnh",
+    "chooseFromLibraryButtonTitle": "Chọn từ Thư viện ảnh"
+  },
+  "TicketRequest": "Yêu cầu sửa chữa",
+  "SuccessfulTitle": "Yêu cầu thành công",
+  "SuccessfulContentTitle": "Yêu cầu của bạn sẽ được xem xét. Nhân viên của chúng tôi sẽ liên lạc với bạn trong vòng 24 giờ kể từ khi nộp",
+  "GoToHome": "Trở về màn hình chính",
+  "HowWasOurService": "Dịch vụ của chúng tôi thế nào?",
+  "Skip": "Bỏ qua",
+  "Send": "Gửi",
+  "ThankYouForYourFeedback": "Cảm ơn phản hồi của bạn",
+  "This issue is already resolved": "Vấn đề này đã được giải quyết",
+  "Other": "Lý do khác",
+  "TicketHasDeleted": "Yêu cầu này đã được hủy",
+
+  "ListOfVisitorInformation": "Danh sách thông tin khách đến thăm",
+  "AddVisitor": "Thêm khách đến thăm",
+  "AllItemsAreRequired": "* Tất cả các mục là bắt buộc",
+  "ReasonForVisiting": "Lý do ghé thăm",
+  "MoreDetailOfTheVisitors": "Ghi chú",
+  "VisitorConfirmation": "Xác nhận của khách",
+  "RegisterSuccessDes": "Chúng tôi đã nhận được đơn đăng ký của bạn. BReasonForVisitingạn sẽ nhận được email xác nhận với ID và mật khẩu của mình trong vòng 24 giờ sau khi thông tin được hoàn tất.",
+  "RegisterSuccessDesDemo": "Chúng tôi đã nhận được đơn đăng ký của bạn. Bạn có thể sử dụng tên đăng nhập là email và mật khẩu là số điện thoại của bạn để đăng nhập sau khi thông tin đã được kiểm tra trong vòng 24h.",
+
+  "UpcomingEvents": "Sự kiện sắp tới",
+  "PastEvents": "Sự kiện đã qua",
+  "EventDetail": "Chi tiết sự kiện",
+  "Reason": "Lý do",
+  "CheckIn": "Giờ vào",
+  "CheckOut": "Giờ ra",
+  "SuccessfulVisitorTitle": "Thông báo của khách đã gửi",
+  "SuccessfulVisitorContent": "Cảm ơn bạn đã thông báo cho chúng tôi về khách truy cập của bạn. Chúc một ngày tốt lành!",
+  "VisitorInformation": "Thông tin khách truy cập",
+  "Resend": "Gửi lại",
+  "DoYouWantToDeleteThisVisitorFromTheList": "Bạn có muốn xóa khách truy cập này khỏi danh sách?",
+  "DoYouWantToSendAnotherNoticeUsingThisVisitorInformation": "Bạn có muốn gửi thông báo khác bằng thông tin khách truy cập này không?",
+  "UpdateVisitor": "Cập nhật khách truy cập",
+  "Required": "* Yêu cầu",
+  "Visit": "Đến thăm",
+  "Maintenance": "Bảo trì",
+
+  "More": "Xem thêm",
+  "Notifications": "Thông báo",
+  "Notification": "Thông báo",
+  "NotificationsSetting": "Thiết lập thông báo",
+  "Support": "Hỗ trợ",
+  "Language": "Ngôn ngữ",
+  "Logout": "Đăng xuất",
+  "Bill": "Hoá đơn",
+  "Announcement": "Thông báo",
+
+  "ProfileDetail": "Chi Tiết Hồ Sơ",
+  "Barcode": "Mã vạch",
+  "Member": "Thành Viên",
+  "VehicleInformation": "Thông Tin Phương Tiện",
+  "Add": "Thêm",
+  "RentalTerm": "Thời hạn hợp đồng",
+  "ContractInformation": "Thông Tin Hợp Đồng",
+
+  "ViewProfile": "Xem hồ sơ",
+  "Role": "Vai trò",
+  "IDCardImage": "Ảnh CMND / Hộ chiếu",
+  "ChangePassword": "Thay đổi mật khẩu",
+  "AddMember": "Thêm thành viên",
+
+  "AddVehicle": "Thêm phương tiện",
+  "Bicycle": "Xe đạp",
+  "Motorbike": "Xe gắn máy",
+  "4-seats car": "Ôtô 4 chỗ",
+  "7-seats car": "Ôtô 7 chỗ",
+
+  "OnlineRegister": "Đăng ký online",
+  "PleaseFillOutTheRegistrationForm": "Vui lòng cung cấp thông tin theo mẫu bên dưới",
+  "UserInformation": "Thông tin cư dân",
+  "AttachYourIdCardImage": "Đính kèm ảnh CMND/hộ chiếu (cả hai mặt)",
+  "FirstName": "Tên",
+  "LastName": "Họ",
+  "Nationality": "Quốc tịch",
+  "CountryOfOrigin": "Quốc gia",
+  "Country": "Quốc gia",
+  "Gender": "Giới tính",
+  "Block": "Tòa",
+  "UnitNo": "Số phòng",
+  "DateOfBirth": "Ngày sinh",
+  "PhoneNo": "Số điện thoại",
+  "IdPassportNo": "CMND/Số hộ chiếu",
+  "UnitInformation": "Thông tin căn hộ",
+  "AttachYourContractImage": "Đính kèm hợp đồng thuê căn hộ",
+  "Rent": "Thuê",
+  "Buy": "Mua",
+  "To": "Đến",
+  "Confirmation": "Xác nhận",
+  "RegisterMember": "Đăng ký",
+  "RegisterMemberDes": "Vui lòng kiểm tra lại thông tin",
+  "RentStartDayNotValid": "Ngày bắt đầu hợp đồng không đúng định dạng",
+  "RentEndDayNotValid": "Ngày kết thúc hợp đồng không đúng định dạng",
+
+  "PleaseFillOutTheInformationBelow": "Vui lòng cung cấp những thông tin dưới đây",
+  "Brand": "Hãng",
+  "PlateNumber": "Biển số xe",
+  "PricePerMonth": "Giá gửi xe/tháng",
+  "ChooseAPhoto": "Chọn ảnh",
+
+  "MovingList": "Danh sách chuyển đồ",
+  "MovingListTitle": "Danh sách chuyển đồ",
+  "MovingDetail": "Hãy liệt kê những đồ vật bạn muốn chuyển đi",
+  "RequestDetail": "Chi tiết yêu cầu",
+  "CreateList": "Tạo danh sách",
+  "MovingOut": "Chuyển ra ngoài",
+  "MovingAFurniture": "Chuyển nội thất",
+  "CheckPhoto": "Thêm danh sách hình ảnh",
+  "AlertSaveMoveOut": "Một yêu cầu ủy quyền sẽ được gửi tới chủ nhà",
+  "Clear": "Xóa",
+
+  "ElectionDetail": "Chi Tiết Bầu Cử",
+  "Responsibilities": "Nghĩa vụ",
+  "ElectionPeriod": "Thời gian bầu cử",
+  "TermOfOffice": "Nhiệm kỳ ",
+  "ElectCandidates": "Ứng Cử Viên",
+  "Candidates": "Ứng Cử Viên",
+  "CandidatesDetail": "Nhấn vào tên ứng viên để xem chi tiết",
+  "YouHaveBeenVoteFor": "Bạn đã bầu chọn cho",
+  "PleaseConfirmYourVoteFor": "Vui lòng xác nhận bầu chọn của bạn",
+  "YouCannotChangeYourVoteAfterwards": "Bạn không thể thay đổi phiếu bầu của mình sau đó.",
+  "CannotAccess": "Chỉ có chủ căn hộ mới có thể sử dụng chức năng này.",
+  "TheElectionHasEnded": "Cuộc bầu chọn đã kết thúc",
+  "ElectionResult": "Kết quả bầu chọn",
+  "ThankYouForVoting": "Cám ơn bạn đã bầu chọn",
+  "PleaseLookForward": "Xin hãy chờ đợi các cuộc bầu cử sắp tới!",
+  "HasBeenChosenAsThe": "đã được chọn là",
+  "CandidateInfo": "Thông tin ứng cử viên",
+
+  "ManagementBill": "Hóa đơn quản lý",
+  "ElectricityBill": "Hóa đơn tiền điện",
+  "IncludesAllUnpaidAmounts": "Bao gồm những khoản chưa thanh toán",
+  "ManagementBillDetail": "Hóa đơn chung",
+  "Overdue": "Quá hạn",
+  "ElectricityBillDetail": "Chi tiết hóa đơn tiền điện",
+
+  "FacilityDes": "Bạn có thể đặt Tiện ích trực tuyến.",
+  "RecentBookings": "Đặt chỗ gần đây",
+  "ConfirmBooking": "Bạn có chắc chắn hủy lịch trình đặt phòng này?",
+  "Booked": "Đã đặt",
+  "Available": "Trống",
+  "Booking": "Đặt chỗ",
+
+  "DueDate": "Hạn thanh toán",
+  "Total": "Tổng cộng",
+
+  "Date": "Ngày",
+  "Status": "Trạng thái",
+  "Email": "Email",
+  "Place": "Địa điểm",
+  "Time": "Thời gian",
+
+  "Cancel": "Huỷ",
+  "Apply": "Đồng ý",
+  "Update": "Cập nhật",
+  "Create": "Tạo",
+  "Save": "Lưu",
+  "Done": "Xong",
+
+  "SomeThingWentWrong": "Có vấn đề ở đâu đó!",
+
+  "BlockType": "Tòa",
+  "RequiredAllField": "*Bắt buộc điền thông tin",
+  "MALE": "Nam",
+  "FEMALE": "Nữ",
+  "OTHER": "Khác",
+  "txtMarkAllAsRead": "Đánh dấu tất cả là đã đọc",
+
+  "DOB": "Ngày sinh",
+  "PeriodOfResidence": "Thời hạn lưu trú",
+  "BuildingManager": "Ban quản lý",
+  "SupportTeam": "Nhóm hỗ trợ",
+
+  "EmailOrPasswordIsWrong": "Sai Email hoặc mật khẩu",
+  "UserNotFound": "Bạn đã nhập sai thông tin đăng nhập",
+  "FormatEmailWrong": "Định dạng email không đúng",
+  "FormatPhoneWrong": "Định dạng số điện thoại không đúng",
+  "LengthPhoneWrong": "Độ dài số điện phải phải từ 9-12 chữ số",
+  "FormatDateWrong": "Định dạng ngày không đúng",
+
+  "CurrentPassword": "Mật khẩu hiện tại",
+  "NewPassword": "Mật khẩu mới",
+  "ConfirmNewPassword": "Nhập lại Mật khẩu mới",
+  "PasswordNotMatching": "Mật khẩu mới và Xác nhận mật khẩu mới không khớp",
+  "ChangePasswordError": "Mật khẩu của bạn phải chứa ít nhất 8 kí tự và chứa ít nhất 1 ký tự in hoa, 1 ký tự in thường, 1 chữ số và 1 ký tự đặc biệt",
+  "IncorrectCurrentPassword": "Mật khẩu hiện tại không chính xác",
+
+  "DoLogout": "Bạn có muốn đăng xuất khỏi tài khoản này không?",
+
+  "BookingConfirmation": "Xác nhận đặt chỗ",
+  "AgreeToThe": "Đồng ý với",
+  "FacilitiesUsagePolicy": "Quy định đặt chỗ",
+  "Schedule": "Lịch",
+
+  "FrequentlyAskedQuestions": "Những câu hỏi thường gặp",
+  "SendMailToSupportTeam": "Bạn có muốn gửi email cho người hỗ trợ?",
+  "CallSupportCenter": "Gọi cho trung tâm hỗ trợ",
+  "Hotline": "Đường dây nóng",
+  "HeadOffice": "Trụ sở chính",
+  "All": "Tất cả",
+
+  "AM": "Sáng",
+  "PM": "Chiều",
+
+  "OTPVerification": "Xác thực OTP",
+  "EnterOTPSentTo": "Nhập vào OTP đã được gửi đến",
+  "Verify": "Xác nhận",
+  "NotReceiveCode": "Không nhận được mã?",
+  "ResendNow": "Gửi lại ngay",
+  "WrongOTP": "Bạn đã nhập sai OTP",
+  "InformationVerified": "Thông tin của bạn đã được xác thực thành công",
+  "RanOutOfTime": "Bạn đã hết thời gian",
+  "OTPSuccessful": "Bạn đã nhập thành công OTP",
+  "ResendOTP": "Gửi lại OTP",
+  "Search": "Tìm Kiếm",
+  "Apartment": "Chung Cư",
+  "EnterYourApartmentNameHere": "Nhập vào tên căn hộ của bạn",
+
+  "HeadTenant": "Chủ thuê",
+  "Tenant": "Người thuê",
+
+  "SuccessfulRequest": "Gửi yêu cầu thành công",
+  "RequestSent": "Đã gửi yêu cầu",
+
+  "NotExistUnit": "Không tồn tại unit nào trong tài khoản của bạn",
+  "Unpaid": "Chưa thanh toán",
+  "Paid": "Đã thanh toán",
+  "OldNumber": "Chỉ số cũ",
+  "NewNumber": "Chỉ số mới",
+  "Consumption": "Tổng điện năng tiêu thụ",
+  "Price": "Đơn giá",
+  "NetPrice": "Tổng tiền điện chưa thuế",
+  "VAT": "Thuế GTGT",
+  "UNPAID": "Chưa thanh toán",
+  "PAID": "Đã thanh toán",
+
+  "AnAuthorizationRequest": "Một yêu cầu ủy quyền sẽ được gửi đến chủ sở hữu đơn vị",
+  "BookingSuccessful": "Đặt chỗ thành công",
+  "BookingConfirmed": "Đặt chỗ của bạn đã được xác nhận!",
+  "CheckYourBookingDetails": "Bạn có thể xem chi tiết đặt chỗ trong Đặt chỗ gần đây",
+
+  "FindId": "Tìm ID",
+  "FindIdDes": "Chỉ một vài kí tự được tiết lộ để bảo vệ sự riêng tư của bạn.",
+  "ResetPassword": "Thay đổi mật khẩu",
+  "UpdatePasswordSuccessfully": "Bạn đã thay đổi mật khẩu thành công. Hãy đăng nhập bằng mật khẩu mới",
+
+  "DateAndTime": "Ngày và giờ",
+  "TakePhoto": "Chụp ảnh",
+  "ChooseFromLibrary": "Chọn từ Thư viện ảnh",
+  "SelectAPhoto": "Vui lòng chọn hình ảnh",
+
+  "DuplicatePhone": "Số điện thoại đã tồn tại",
+  "DuplicatedUnit": "Căn hộ đã có người lựa chọn",
+  "DuplicatedIdCart": "Số chứng minh thư / Hộ chiếu đã tồn tại",
+  "DuplicatedEmail": "Email đã tồi tại",
+  "BirthDayNotValid": "Ngày sinh không đúng định dạng",
+
+  "DesciptionNotEmpty": "Ghi chú không được rỗng",
+  "ItemsAreRequired": "Các mục có dấu * là bắt buộc",
+  "NoDataInList": "Không có dữ liệu trong danh sách!",
+
+  "PasswordChanged": "Mật khẩu đã thay đổi",
+  "PasswordUpdateSuccessfully": "Bạn đã cập nhật mật khẩu thành công.",
+  "GoToLogin": "Đi đến đăng nhập",
+  "BackToLogin": "Về màn hình Đăng nhập",
+  "AttachImages": "Đính kèm hình ảnh",
+
+  "Item": "Món",
+  "None": "trống",
+  "": "",
+
+  "src": {
+    "components": {
+      "modal": {
+        "ModalCalendar2": {
+          "Schedule": "Lịch trình",
+          "Done": "Hoàn thành"
+        }
+      }
+    },
+    "screens": {
+      "facilities": {
+        "BookingConfirmScreen": {
+          "P": "Quy định",
+          "C": "Đóng"
+        },
+        "FacilityScreen": {
+          "PleaseSelectFacility": "Vui lòng chọn một tiện ích phía bên dưới để xem lịch"
+        }
+      },
+      "visitor": {
+        "VisitorCreateScreen": {
+          "Maintenance": "Sửa chữa",
+          "Visit": "Ghé thăm",
+          "Delivery": "Giao hàng",
+          "ID": "Số CMND/Hộ chiếu",
+          "SR": "Chọn lý do"
+        }
+      },
+      "HomeScreen": {
+        "delivery": "vận chuyển"
+      },
+      "movingList": {
+        "MovingListScreen": {
+          "SUBMITTED": "Đã gửi",
+          "REJECTED": "Từ chối",
+          "APPROVED": "Tán thành",
+          "FURNITURE": "Nội thất",
+          "MOVE OUT": "Ra ngoài"
+        }
+      },
+      "election": {
+        "ElectionDetail": {
+          "ElectionEnded": "Cuộc bầu cử này đã kết thúc.",
+          "ElectionResult": "Kết quả bầu cử"
+        }
+      },
+      "bill": {
+        "ManagementBillScreen": {
+          "Management": "Phí quản lí",
+          "Water": "Tiền nước",
+          "Parking": "Phí gửi xe",
+          "Home services": "Tiền dịch vụ",
+          "MANAGEMENT": "Phí quản lí",
+          "PARKING": "Phí gửi xe",
+          "WATER": "Tiền nước",
+          "HOME_SERVICE": "Tiền dịch vụ"
+        }
+      },
+      "ticket": {
+        "TicketConfirmScreen": {
+          "TicketSent": "Yêu cầu sửa chữa đã được gửi"
+        },
+        "TicketScreen": {
+          "HomeService": "Home Service"
+        }
+      },
+      "other": {
+        "FAQScreen": {
+          "WhatIncludedGeneralBill": "Hóa đơn quản lý hàng tháng bao gồm những loại phí gì?",
+          "WhatIncludedGeneralBillContent": "Hóa đơn quản lý bao gồm phí quản lý vận hành chung cư hàng tháng (bao gồm phí an ninh, vệ sinh, cảnh quan, rác thải và vận hành những khu vự công cộng trong tòa nhà) và các loại phí dịch vụ khác, như phí thành viên phòng gym, phí sử dụng các tiện ích chung cư nếu có.",
+          "LikeAirBnB": "Tôi là người thuê nhà, tôi có được phép cho người khác thuê lại căn hộ của mình hoặc đăng kí dịch vụ AirBnB không?",
+          "LikeAirBnBContent": "Không. Người thuê cho thuê lại căn hộ của mình là vi phạm hợp đồng thuê nhà và sẽ phải bồi thường theo như điều khoản trong hợp đồng, hoặc có thể bị cắt hợp đồng thuê nhà.",
+          "HowStopRental": "Tôi có thể chấm dứt hợp đồng thuê nhà của mình bằng cách nào?",
+          "HowStopRentalContent": "Các điều khoản về việc chấm dứt hoặc gia hạn hợp đồng thuê nhà đã được chủ nhà và chủ thuê thỏa thuận từ trước. Chủ nhà và chủ thuê có nghĩa vụ giải quyết mọi vấn đề phát sinh có liên quan đến hợp đồng thuê. Ban quản lý tòa nhà sẽ chỉ xác nhận việc chấm dứt hợp đồng thuê khi nhận được xác thực trên giấy từ chủ nhà.",
+          "IsAllowedApartment": "Tôi có được phép thay đổi thiết kế của căn hộ không?",
+          "IsAllowedApartmentContent": "Người thuê nhà không được phép thay đổi thiết kế nền của căn hộ. Cư dân (chủ nhà và chủ thuê) không được phép khoan tường, treo móc đồ dùng trên ống nước, thay đổi hoặc che khuất máy báo cháy hoặc vòi phun.",
+          "CanIChangeInformation": "Tôi muốn thay đổi thông tin tài khoản?",
+          "CanIChangeInformationContent": "Người dùng có thể thay đổi mật khẩu và ảnh đại diện trực tiếp trên app. Vui lòng liên lạc với quản lý tòa nhà về những thay đổi khác.",
+          "CanILogInfo": "Tôi có thể đăng nhập trên nhiều thiết bị khi sử dụng 1 tài khoản không?",
+          "CanILogInfoContent": "Người dùng có thể đăng nhập vào cùng 1 tài khoản trên nhiều thiết bị. ",
+          "DoNotReceiveEmailNotification": "Tôi không muốn nhận email thông báo. Tôi có thể tắt chức năng này không?",
+          "DoNotReceiveEmailNotificationContent": "Người dùng có thể tắt chức năng thông báo qua app và email trong phần cài đặt của app."
+        }
+      }
+    }
+  }
+}

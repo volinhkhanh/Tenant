@@ -1,0 +1,448 @@
+{
+  "hello": "Hello",
+  "Good morning": "Good morning",
+  "Currency": "USD",
+
+  "ToUrbanOS": "To UrbanOS",
+  "Slogan": "With UrbanOS, all conveniences are in your hands",
+  "Instruction": "Let's begin",
+
+  "getStarted": "Get Started",
+  "slide1Title": "Electricity and General Bills",
+  "slide1Description": "Remotely monitor your monthly utilities and other accommodation expenses",
+  "slide2Title": "Facility Booking",
+  "slide2Description": "Make a digital reservation for a building facility",
+  "slide3Title": "Damage Claims",
+  "slide3Description": "File a damage claim with just clicks",
+
+  "Welcome": "Welcome",
+  "PleaseSignInToContinue": "Please sign in to continue",
+  "Password": "Password",
+  "ForgotIdOrPassword": "Forgot ID or Password?",
+  "Login": "Log in",
+  "Terms&Conditions": "Terms & Conditions",
+  "OnlineRegistration": "Online Registration",
+  "Terms&ConditionsContent": "This Product- App is owned by UrbanOS Co., Ltd (“UrbanOS”)\nThis page is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\nIf you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\nThe terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at UrbanOS App unless otherwise defined in this Privacy Policy.\n \nInformation Collection and Use\nFor a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to UrbanOS. The information that we request will be retained by us and used as described in this privacy policy.\n \nLog Data\nWe want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.\n \nCookies\nCookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.\nThis Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.\n \nService Providers\nWe may employ third-party companies and individuals due to the following reasons:\n·  To facilitate our Service;\n·  To provide the Service on our behalf;\n·  To perform Service-related services; or\n·  To assist us in analyzing how our Service is used.\nWe want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.\n \nSecurity\nWe value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.\n \nLinks to Other Sites\nThis Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. we have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\n \nChildren’s Privacy\nInformation of children under 16 years of age is collected and stored by UrbanOS. However, UrbanOS will not in any way use, disclose, or notify of personal information of children under the age of 16. If you are a parent or guardian of a child and you are aware that your child’s personal information has been used, please contact us so that we will be able to take necessary measures. For UrbanOS’ contact information, please refer to the final section of this Policy.\nChanges to This Privacy Policy\nWe may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.\nThis policy is effective as of 2020-05-28.\n \nContact Us\nIf you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us via email: info@urbanos.io or writing to us at 14, B4 Street, An Loi Dong Ward, District 2, Ho Chi Minh City 70000.\n",
+  "Close": "Close",
+
+  "FindIdOrPassword": "Find ID or Password",
+  "PleaseSelectTheSectionToFind": "Please select the section to find",
+  "ApartmentName": "Apartment",
+  "FullName": "Full name",
+  "PhoneNumber": "Phone",
+  "GetOTP": "Get OTP",
+  "AllFieldsAreRequired": "All fields are required",
+  "AllFieldsAsteriskAreRequired": "All fields has asterisk are required",
+  "CanNotGenerateOTP": "Can not generate OTP",
+
+  "Profile": "Profile",
+  "Point": "Point",
+  "ContactSupportTeam": "Contact Support Team",
+  "Bills": "Bills",
+  "Facility": "Facility",
+  "Ticket": "Ticket",
+  "PhoneBook": "Phone book",
+  "HomeServices": "Home Services",
+  "Delivery": "delivery",
+  "Moving": "moving",
+  "Cleaning": "cleaning",
+  "Laundry": "laundry",
+  "AskMeAnything": "ask me anything",
+  "Election": "Election",
+  "Visitor": "Visitor",
+  "Event": "Event",
+  "AddToList": "Add to list",
+  "CreateMovingList": "Create moving list",
+  "Chair": "chair",
+  "Table": "table",
+  "MovingCreateConfirm": "An authorization request will be sent to the unit owner",
+
+  "ReportAnyPropertyDamageOrIssue": "Report any property damage or issue",
+  "History": "History",
+  "CreateTicket": "Create Ticket",
+  "TicketDetail": "Ticket Detail",
+  "Submitting": "Submitting",
+  "Submitted": "Submitted",
+  "Processing": "Processing",
+  "Canceled": "Canceled",
+  "Completed": "Completed",
+  "Type": "Type",
+  "Quantity": "Quantity",
+  "Name": "Name",
+  "Unit": "Unit",
+  "Edit": "Edit",
+  "Delete": "Delete",
+  "Confirm": "Confirm",
+  "EditTicket": "Edit Ticket",
+  "Title": "Title",
+  "Description": "Description",
+  "ChoosePhotos": "Attach images",
+  "SomethingUrgent": "Something urgent?",
+  "CallUs": " Call us",
+  "WhyDoYouWantToCancelThisTicket": "Why do you want to cancel this ticket?",
+  "DoYouWantToCallTicketSupport": "Do you want to call Ticket Support?",
+  "GoBack": "Go back",
+  "Call": "Call",
+  "ImagePicker": {
+    "title": "Please select an image",
+    "cancelButtonTitle": "Cancel",
+    "takePhotoButtonTitle": "Take a photo",
+    "chooseFromLibraryButtonTitle": "Choose from Gallery"
+  },
+  "TicketRequest": "Ticket Request",
+  "SuccessfulTitle": "Request Successful",
+  "SuccessfulContentTitle": "Your request will be taken into consideration. Our staff will contact you within 24 hours since submission.",
+  "GoToHome": "Back to Home",
+  "HowWasOurService": "How was our service?",
+  "Skip": "Skip",
+  "Send": "Send",
+  "ThankYouForYourFeedback": "Thank you for your feedback",
+  "This issue is already resolved": "This issue is already resolved",
+  "Other": "Other",
+  "TicketHasDeleted": "The ticket has been canceled",
+
+  "ListOfVisitorInformation": "List of visitor information",
+  "AddVisitor": "Add Visitor",
+  "AllItemsAreRequired": "* All items are required",
+  "ReasonForVisiting": "Reason for visiting",
+  "MoreDetailOfTheVisitors": "More detail of the visitors",
+  "VisitorConfirmation": "Visitor Confirmation",
+  "Reason": "Reason",
+  "CheckIn": "Check in",
+  "CheckOut": "Check out",
+  "SuccessfulVisitorTitle": "Visitor Notice Sent",
+  "SuccessfulVisitorContent": "Thank you for informing us about your visitor. Have a wonderful day!",
+  "VisitorInformation": "Visitor Information",
+  "Resend": "Resend",
+  "DoYouWantToDeleteThisVisitorFromTheList": "Do you want to delete this visitor from the list?",
+  "DoYouWantToSendAnotherNoticeUsingThisVisitorInformation": "Do you want to send another notice using this visitor information?",
+  "UpdateVisitor": "Update Visitor",
+  "Required": "* Required",
+  "Visit": "Visit",
+  "Maintenance": "Maintenance",
+
+  "UpcomingEvents": "Upcoming Events",
+  "PastEvents": "Past Events",
+  "EventDetail": "Event Detail",
+
+  "More": "More",
+  "Notifications": "Notifications",
+  "Notification": "Notification",
+  "NotificationsSetting": "Notification settings",
+  "Support": "Support",
+  "Language": "Language",
+  "Logout": "Log out",
+  "Bill": "Bill",
+  "Announcement": "Announcement",
+
+  "ProfileDetail": "Profile Detail",
+  "Barcode": "Barcode",
+  "Member": "Member",
+  "VehicleInformation": "Vehicle Information",
+  "Add": "Add",
+  "RentalTerm": "Rental Term",
+  "ContractInformation": "Contract Information",
+  "RegisterSuccessDes": "We have received your registration application. You will receive a confirmation email with your ID and password within 24 hours once the information has been finalized.",
+  "RegisterSuccessDesDemo": "We have received your registration application. You can log in with your email as your ID and phone number as your password within 24 hours once the information has been finalized.",
+
+  "ViewProfile": "View Profile",
+  "Role": "Role",
+  "IDCardImage": "ID card images",
+  "ChangePassword": "Change password",
+  "AddMember": "Add Member",
+
+  "AddVehicle": "Add vehicle",
+  "Bicycle": "Bicycle",
+  "Motorbike": "Motorbike",
+  "4-seats car": "4-seats car",
+  "7-seats car": "7-seats car",
+
+  "OnlineRegister": "Online Register",
+  "PleaseFillOutTheRegistrationForm": "Please fill out the registration form",
+  "UserInformation": "User information",
+  "AttachYourIdCardImage": "Attach ID card images (both sides)",
+  "FirstName": "First Name",
+  "LastName": "Last Name",
+  "Nationality": "Nationality",
+  "CountryOfOrigin": "Country of origin",
+  "Country": "Country of origin",
+  "Gender": "Gender",
+  "Block": "Block",
+  "UnitNo": "Unit",
+  "DateOfBirth": "Date of birth",
+  "PhoneNo": "Phone",
+  "IdPassportNo": "ID/Passport No.",
+  "UnitInformation": "Unit information",
+  "AttachYourContractImage": "Attach contract image",
+  "Rent": "Rent",
+  "Buy": "Buy",
+  "To": "to",
+  "Confirmation": "Confirmation",
+  "RegisterMember": "Register Member",
+  "RegisterMemberDes": "Please make sure all the information is correct.",
+
+  "PleaseFillOutTheInformationBelow": "Please fill out the information below",
+  "Brand": "Brand",
+  "PlateNumber": "Plate number",
+  "PricePerMonth": "Price (per month)",
+  "ChooseAPhoto": "Choose a photo",
+
+  "MovingList": "Moving list",
+  "MovingListTitle": "Moving List",
+  "MovingDetail": "Please list the items that want to move out of your apartment",
+  "RequestDetail": "Request Detail",
+  "CreateList": "Create List",
+  "MovingAFurniture": "Moving a furniture",
+  "CheckPhoto": "Please add a photo of your checklist",
+  "MovingOut": "Moving out",
+  "AlertSaveMoveOut": "An authorization request will be sent to the unit owner",
+  "Clear": "Clear",
+
+  "ElectionDetail": "Election Detail",
+  "Responsibilities": "Responsibilities",
+  "ElectionPeriod": "Election period",
+  "TermOfOffice": "Term of office",
+  "ElectCandidates": "Elect Candidates",
+  "Candidates": "Candidates",
+  "CandidatesDetail": "Click on a candidate for more details",
+  "YouHaveBeenVoteFor": "You have voted for",
+  "PleaseConfirmYourVoteFor": "Please confirm your vote for",
+  "YouCannotChangeYourVoteAfterwards": "You cannot change your vote afterwards.",
+  "CannotAccess": "Only Head Tenant can access this function.",
+  "TheElectionHasEnded": "The election has ended",
+  "ElectionResult": "Election result",
+  "ThankYouForVoting": "Thank you for voting",
+  "PleaseLookForward": "Please look forward to the upcoming elections!",
+  "HasBeenChosenAsThe": "has been chosen as the",
+  "CandidateInfo": "Candidate Info",
+
+  "ManagementBill": "General Bill",
+  "ElectricityBill": "Electricity Bill",
+  "IncludesAllUnpaidAmounts": "Includes all unpaid amounts",
+  "ManagementBillDetail": "General Bill Detail",
+  "Overdue": "Overdue",
+  "ElectricityBillDetail": "Electricity Bill Detail",
+
+  "FacilityDes": "You can now reserve a facility online",
+  "RecentBookings": "Recent bookings",
+  "ConfirmBooking": "Are you sure to cancel this booking schedule?",
+  "Booked": "Booked",
+  "Available": "Available",
+  "Booking": "Booking",
+
+  "DueDate": "Due date",
+  "Total": "Total",
+
+  "Date": "Date",
+  "Status": "Status",
+  "Email": "Email",
+  "Place": "Place",
+  "Time": "Time",
+
+  "Cancel": "Cancel",
+  "Apply": "Apply",
+  "Update": "Update",
+  "Create": "Create",
+  "Save": "Save",
+  "Done": "Done",
+
+  "SomeThingWentWrong": "'Some thing went wrong!",
+
+  "BlockType": "Block",
+  "RequiredAllField": "*Required all field",
+  "MALE": "Male",
+  "FEMALE": "Female",
+  "OTHER": "Other",
+  "txtMarkAllAsRead": "Mark all as read",
+
+  "DOB": "Date of birth",
+  "PeriodOfResidence": "Period of residence",
+  "BuildingManager": "Building Manager",
+  "SupportTeam": "Support Team",
+
+  "EmailOrPasswordIsWrong": "Email id or password is wrong",
+  "UserNotFound": "You entered the wrong login credentials",
+  "FormatEmailWrong": "Format email is wrong",
+  "FormatPhoneWrong": "Format phone number is wrong",
+  "LengthPhoneWrong": "Phone No. needs to be 9-12 digits",
+  "FormatDateWrong": "Date format is wrong",
+
+  "CurrentPassword": "Current password",
+  "NewPassword": "New password",
+  "ConfirmNewPassword": "Confirm new password",
+  "PasswordNotMatching": "Mismatched New password and Confirm new password fields",
+  "ChangePasswordError": "Your password must contain a minimum of 8 characters included at least 1 upper case letter, 1 lower case letter, 1 number and 1 special character",
+  "IncorrectCurrentPassword": "Incorrect current password",
+
+  "DoLogout": "Do you want to log out of this account?",
+
+  "BookingConfirmation": "Booking Confirmation",
+  "AgreeToThe": "Agree to the",
+  "FacilitiesUsagePolicy": "Facilities Usage Policy",
+  "Schedule": "Schedule",
+
+  "FrequentlyAskedQuestions": "Frequently Asked Questions",
+  "SendMailToSupportTeam": "Do you want to email the support team?",
+  "CallSupportCenter": "Call support center",
+  "Hotline": "Hotline",
+  "HeadOffice": "Head office",
+  "All": "All",
+
+  "AM": "AM",
+  "PM": "PM",
+
+  "OTPVerification": "OTP Verification",
+  "EnterOTPSentTo": "Enter OTP sent to",
+  "Verify": "Verify",
+  "NotReceiveCode": "Didn’t receive a code?",
+  "ResendNow": "Resend now",
+  "WrongOTP": "You entered a wrong OTP",
+  "InformationVerified": "Your information has been successfully verified",
+  "RanOutOfTime": "You ran out of time",
+  "OTPSuccessful": "You entered a OTP successful",
+  "ResendOTP": "Resend OTP",
+  "Search": "Search",
+  "Apartment": "Apartment",
+  "EnterYourApartmentNameHere": "Enter your apartment name here",
+
+  "HeadTenant": "Head Tenant",
+  "Tenant": "Tenant",
+
+  "SuccessfulRequest": "Request Sent",
+  "RequestSent": "Request Sent",
+
+  "NotExistUnit": "Not exist unit in your account",
+
+  "Unpaid": "Unpaid",
+  "Paid": "Paid",
+  "OldNumber": "Old number",
+  "NewNumber": "New number",
+  "Multipler": "multiplier",
+  "Consumption": "Consumption",
+  "Price": "Price",
+  "NetPrice": "Net price",
+  "VAT": "VAT",
+  "UNPAID": "Unpaid",
+  "PAID": "Paid",
+
+  "AnAuthorizationRequest": "An authorization request will be sent to the unit owner",
+  "BookingSuccessful": "Booking Successful",
+  "BookingConfirmed": "Your booking has been confirmed!",
+  "CheckYourBookingDetails": "You can check your booking details in Booking History",
+
+  "FindId": "Find ID",
+  "FindIdDes": "Only some are disclosed to protect your privacy.",
+  "ResetPassword": "Reset Password",
+  "UpdatePasswordSuccessfully": "You have successfully updated your password. Please log in with your new password.",
+
+  "DateAndTime": "Date and time",
+  "TakePhoto": "Take photo",
+  "ChooseFromLibrary": "Choose from library",
+  "SelectAPhoto": "Select a photo",
+
+  "DuplicatePhone": "Phone number already exists",
+  "DuplicatedUnit": "Unit already have head tenantDuplicated unit",
+  "DuplicatedIdCart": "Id cart already exists",
+  "DuplicatedEmail": "Email already exists",
+  "BirthDayNotValid": "Birthday not valid",
+  "RentStartDayNotValid": "Rent start not valid",
+  "RentEndDayNotValid": "Rent end not valid",
+
+  "DesciptionNotEmpty": "Description can not empty",
+  "ItemsAreRequired": "Items with * are required",
+  "NoDataInList": "No data in list!",
+
+  "PasswordChanged": "Password Changed",
+  "PasswordUpdateSuccessfully": "You have successfully updated your password.",
+  "GoToLogin": "Go to login",
+  "BackToLogin": "Back to Login",
+  "AttachImages": "Attach images",
+
+  "Item": "Item",
+  "None": "N/A",
+  "": "",
+
+  "src": {
+    "components": {
+      "modal": {
+        "ModalCalendar2": {
+          "Schedule": "Schedule",
+          "Done": "Done"
+        }
+      }
+    },
+    "screens": {
+      "facilities": {
+        "BookingConfirmScreen": {
+          "P": "Policy",
+          "C": "Close"
+        },
+        "FacilityScreen": {
+          "PleaseSelectFacility": "Please select a facility below to see the schedule"
+        }
+      },
+      "visitor": {
+        "VisitorCreateScreen": {
+          "Maintenance": "Maintenance",
+          "Visit": "Visit",
+          "Delivery": "Delivery",
+          "ID": "ID/Passport No.",
+          "SR": "Select reason"
+        }
+      },
+      "HomeScreen": {
+        "delivery": "delivery"
+      },
+      "movingList": {
+        "MovingListScreen": {
+          "SUBMITTED": "submitted",
+          "REJECTED": "rejected",
+          "APPROVED": "approved",
+          "FURNITURE": "FURNITURE",
+          "MOVE OUT": "MOVE OUT"
+        }
+      },
+      "election": {
+        "ElectionDetail": {
+          "ElectionEnded": "The election has ended.",
+          "ElectionResult": "Election result"
+        }
+      },
+      "bill": {
+        "ManagementBillScreen": {
+          "Management": "General",
+          "Water": "Water",
+          "Parking": "Parking",
+          "Home services": "Home services",
+          "MANAGEMENT": "Management",
+          "PARKING": "Parking",
+          "WATER": "Water",
+          "HOME_SERVICE": "Home service"
+        }
+      },
+      "ticket": {
+        "TicketConfirmScreen": {
+          "TicketSent": "Ticket Sent"
+        }
+      },
+      "other": {
+        "FAQScreen": {
+          "WhatIncludedGeneralBill": "What is included in the monthly General bill?",
+          "WhatIncludedGeneralBillContent": "The General bills include the monthly management fee (which covers cost of security, cleaning, landscaping, waste removal and utilities for public areas) and a variety of service cost such as gym membership, outdoor sports facilities, use of lounges, game room, clubrooms, gardens and terraces if applicable.",
+          "LikeAirBnB": "Am I allowed to sub rent my apartment, for example with a platform like AirBnB?",
+          "LikeAirBnBContent": "No, this is not allowed. Please note that this might lead to immediate termination of your contract and a high financial claim as described in your housing contract.",
+          "HowStopRental": "How do I stop my rental agreement? Does it count as breach of contract?",
+          "HowStopRentalContent": "Your rental agreements should be described in your rental contract. With that being said, such matter should be discussed among the respective parties, for example, unit owner and head tenant. Please note that your termination is only definite after you have received a written confirmation from your unit owner.",
+          "IsAllowedApartment": "Is it allowed to adjust something in my apartment?",
+          "IsAllowedApartmentContent": "No, this is not allowed in terms of construction. It is also not allowed to drill holes in the walls. Please note that it is strictly prohibited to hang anything to the piping of the sprinkler installation or to tamper sprinkler heads or smoke detectors.",
+          "CanIChangeInformation": "Can I change my account information?",
+          "CanIChangeInformationContent": "Yes, you can change account password and picture in your user profile. You cannot change your login email and registered phone number using the app, please contact the your building manager for further information.",
+          "CanILogInfo": "Can I log into the same account on multiple devices?",
+          "CanILogInfoContent": "While you can log into the same account on more than one device, we don't recommend using the same account across multiple devices simultaneously.",
+          "DoNotReceiveEmailNotification": "I don't want to receive email notifications from UrbanOS. Can I turn it off?",
+          "DoNotReceiveEmailNotificationContent": "You can opt out of email notifications in your account settings."
+        }
+      }
+    }
+  }
+}
